@@ -1,4 +1,12 @@
-### Hi there 👋
+### motttey 👋
+Data Platform Engineer in Japan
+
+I'm Insered in...
+- Information Visualization
+- Visual Analytics
+- Explainable AI
+- Data-Intensive Applications
+- Creativity Support Systems
 
 <!--
 **motttey/motttey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
