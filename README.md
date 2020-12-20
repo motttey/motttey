@@ -8,4 +8,9 @@ I'm Insered in Information Visualization, Visual Analytics and Creativity Suppor
 
 I'm curretly working on development of Data-Intensive Applications.
 
-[![motttey's github stats](https://github-readme-stats-git-master.motttey.vercel.app/api?username=motttey&count_private=true&include_all_commits&show_icons=true&theme=vue)](https://github.com/motttey?tab=repositories)
+<a href="https://github.com/motttey/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=motttey&count_private=true&include_all_commits&show_icons=true&show_icons=true" />
+</a>
+<a href="https://github.com/motttey/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motttey" />
+</a>
