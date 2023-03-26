@@ -2,7 +2,7 @@
 
 Data Platform Engineer in Japan 
 
-I'm Insered in Information Visualization, Visual Analytics and Creativity Support Systems.
+I'm Insered in Data Visualization, Visual Analytics and Creativity Support Systems.
 
 I'm curretly working on development of Data-Intensive Applications.
 
@@ -13,12 +13,12 @@ Languages:
 - Vue.js
 - React.js
 - C#
-- Java
+- Java (Spring Boot)
 
 Other Skills:
 - Git
 - MySQL
-- HiveQL
+- Hadoop, Hive
 - Presto
 - Apache Airflow
 
