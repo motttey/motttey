@@ -1,21 +1,24 @@
 ## motttey  <img src="profile.png" width="300px" alt="I love Doraemon.">
 
-Data Platform Engineer in Japan 
+Software Engineer / Data Engineer in Japan 
 
 I'm Insered in Data Visualization, Visual Analytics and Creativity Support Systems.
 
-I'm curretly working on development of Data-Intensive Applications.
+I'm curretly working on development of Data-Intensive Applications for Web media service.
 
 Languages:
 - JavaScript
 - TypeScript
 - Python
+- Java
+
+Library/Frameworks:
 - Vue.js
 - React.js
-- C#
-- Java (Spring Boot)
+- Next.js
+- Spring Boot
 
-Other Skills:
+Others:
 - Git
 - MySQL
 - Hadoop, Hive
