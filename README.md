@@ -12,18 +12,26 @@ Languages:
 - Python
 - Java
 
-Library/Frameworks:
+Frontend
 - Vue.js
 - React.js
 - Next.js
+
+Backend
 - Spring Boot
 
-Others:
-- Git
+DBaaS:
 - MySQL
+- Cassandra
+
+Data Engineering / Business Intelligence
 - Hadoop, Hive
 - Presto
 - Apache Airflow
+- Tableau
+
+Infrastructure
+- k8s
 
 <a href="https://github.com/motttey/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=motttey&count_private=true&include_all_commits&show_icons=true&show_icons=true" />
