@@ -4,7 +4,7 @@ Software Engineer / Data Engineer in Japan
 
 I'm Insered in Data Visualization, Visual Analytics and Creativity Support Systems.
 
-I'm curretly working on development of Data-Intensive Applications for Web media service.
+I'm curretly working on front-end development of media-service.
 
 
 **Languages**:
@@ -36,10 +36,12 @@ I'm curretly working on development of Data-Intensive Applications for Web media
 [![Editor/Tools](https://skillicons.dev/icons?i=vscode,idea,git,github)](https://skillicons.dev)
 
 **Data Engineering / Business Intelligence**:
-- Hadoop, Hive
-- Presto
+- Hadoop
+- Hive
+- Trino (Presto)
 - Apache Airflow
 - Tableau
+- streamlit
 
 <a href="https://github.com/motttey/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=motttey&count_private=true&include_all_commits&show_icons=true&show_icons=true" />
