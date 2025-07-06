@@ -2,9 +2,8 @@
 
 Software Engineer / Data Engineer in Japan 
 
-I'm Insered in Data Visualization, Visual Analytics and Creativity Support Systems.
-
-I'm curretly working on front-end development of media-service.
+- Insered in Data Visualization, Visual Analytics and Creativity Support Systems.
+- Currently working on front-end development of media-service.
 
 
 **Languages**:
