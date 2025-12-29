@@ -2,7 +2,7 @@
 
 Software Engineer / Data Engineer in Japan 
 
-- Insered in Data Visualization, Visual Analytics and Creativity Support Systems.
+- Interested in Data Visualization, Visual Analytics and Creativity Support Systems.
 - Currently working on front-end development of media-service.
 
 
