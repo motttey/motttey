@@ -42,9 +42,3 @@ Software Engineer / Data Engineer in Japan
 - Tableau Desktop|Prep|Server
 - Streamlit
 
-<a href="https://github.com/motttey/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=motttey&count_private=true&include_all_commits&show_icons=true&show_icons=true" />
-</a>
-<a href="https://github.com/motttey/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=motttey" />
-</a>
